@@ -1,16 +1,18 @@
-### Hi there 👋
+## 👋 Hey I’m Dolapo, a data analyst 
 
-<!--
-**Dolapomimi/Dolapomimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♀️ Quick one about me
+- 📊 I'm currently work as a human resource analyst.
+- 📊 I'm currently searching for a full time/remote job as a data analyst. 
+- 📐 Degree in English Language, taking Business Intelligence courses and building my programming skills. 
+- 🔍 Love learning, and i deeply love coding.
 
-Here are some ideas to get you started:
+## 💻 Curently Improving My Skills In...
+- **Tableau** on udemy
+- **Python** on Udemy
+- **Peoples Analytics** using coursera
+- **SQL** using sites like [HackerRank](https://www.hackerrank.com/) and [Stratascratch](https://www.stratascratch.com/). 
+- **Power Bi** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## WEBSITE
+Kindly check out my website to view my portfolio [Dolapo's Website](https://dolapomimi.github.io/portfolio/)
+
