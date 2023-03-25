@@ -16,3 +16,9 @@
 ## WEBSITE
 Kindly check out my website to view my portfolio [Dolapo's Website](https://dolapomimi.github.io/portfolio/)
 
+## CERTIFICATION
+- [GOOGLE DATA ANALYTICS CERTIFICATION](https://www.coursera.org/account/accomplishments/specialization/certificate/QTJ7PAJZUMNK)
+
+## CV
+[Alonge Adedolapo Precious cv- 2023.pdf](https://github.com/Dolapomimi/Dolapomimi/files/11068781/Alonge.Adedolapo.Precious.cv-.2023.pdf)
+
