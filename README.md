@@ -8,7 +8,7 @@
 
 ## 💻 Curently Improving My Skills In...
 - **Tableau** on udemy
-- **Python** on Udemy
+- **Python** on Udemy.
 - **Peoples Analytics** using coursera
 - **SQL** using sites like [HackerRank](https://www.hackerrank.com/) and [Stratascratch](https://www.stratascratch.com/). 
 - **Power Bi** 
